@@ -1,2 +1,2 @@
 # Trex
-T-rex infinite run
+infinite running game
